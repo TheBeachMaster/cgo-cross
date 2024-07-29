@@ -15,7 +15,7 @@ env:
   OSX_CROSS_MACOS_SDK_VERSION: "12.3"
 
 jobs:
-  docker:
+  build:
     timeout-minutes: 30
     permissions:
       contents: write

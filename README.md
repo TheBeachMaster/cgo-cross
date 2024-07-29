@@ -2,4 +2,9 @@
 
 ## This is a toy project for learning purposes only!!!
 
-Testing out CGO cross-compilation with Goreleaser,GoSemantic Releaser, OSX Cross-compile and Github Actions(what a mouthfull!).
+Testing out CGO cross-compilation with Goreleaser,GoSemantic Release, OSX Cross-compile and Github Actions(what a mouthfull!).
+
+## Interesting files 🧐
+
+- [github/workflows](./.github/workflows/build.yaml)
+- [.goreleaser.yaml](./.goreleaser.yaml)
